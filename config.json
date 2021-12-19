@@ -1,0 +1,5 @@
+{
+    "images_path" : "data/ears/test",
+    "annotations_path" : "data/ears/annotations/detection/test_YOLO_format",
+    "annotations_path2" : "data/ears/annotations/detection/YOLO_converted_test"
+}
